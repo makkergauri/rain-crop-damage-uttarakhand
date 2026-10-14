@@ -1,2 +1,0 @@
-id,date_observed,latitude,longitude,village,crop,damage_class,damage_type,source,photo_file,consent,notes
-GT001,,,,Girdharnagar,,not_a_field,hail,own_photo,evidence/hail_home_hand.png;evidence/hail_home_floor.png,yes,Hail at home; confirms hail fell here. Not a crop field. Add date and location from original phone files.

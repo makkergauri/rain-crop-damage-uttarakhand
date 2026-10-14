@@ -1,4 +1,0 @@
-earthengine-api
-geemap
-pandas
-matplotlib
